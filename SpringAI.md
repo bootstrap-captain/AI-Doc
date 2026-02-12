@@ -34,11 +34,44 @@
 
 ![image-20260213005315935](https://skillset.oss-cn-shanghai.aliyuncs.com/image-20260213005315935.png)
 
-## 大模型应用/传统应用
+## 大模型应用(Hybrid AI)
 
 - 基于LLM的推理，分析，生成能力，结合传统编程能力，开发出的各种应用
+- 二者进行结合(会话记忆)
 
+### 大模型 vs 传统
 
+![image-20260213015736166](https://skillset.oss-cn-shanghai.aliyuncs.com/image-20260213015736166.png)
+
+### 主流大模型
+
+![image-20260213020026174](https://skillset.oss-cn-shanghai.aliyuncs.com/image-20260213020026174.png)
+
+ ### 大模型产品
+
+![image-20260213020250466](https://skillset.oss-cn-shanghai.aliyuncs.com/image-20260213020250466.png)
+
+## AI应用开发架构
+
+![image-20260213020443946](https://skillset.oss-cn-shanghai.aliyuncs.com/image-20260213020443946.png)
+
+### 纯Prompt问答
+
+![](https://skillset.oss-cn-shanghai.aliyuncs.com/image-20260213020546769.png)
+
+### Function Calling
+
+![image-20260213020856902](https://skillset.oss-cn-shanghai.aliyuncs.com/image-20260213020856902.png)
+
+### RAG
+
+- Retrieval Augmented Generation: 给大模型外挂一个知识库，让大模型基于知识库内容做推理和回答
+
+![image-20260213021307095](https://skillset.oss-cn-shanghai.aliyuncs.com/image-20260213021307095.png)
+
+### Fine-tuning
+
+- 模型微调
 
 # LLM部署
 
